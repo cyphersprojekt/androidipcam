@@ -1,5 +1,10 @@
 # Cámara IP
 
+![Cámara IP](./docs/screenshots/phone.png)
+![Browser](./docs/screenshots/browser.png)
+![RTSP](./docs/screenshots/stream.png)
+
+
 App Android que convierte el teléfono o la tablet en una cámara IP para reconocimiento facial.
 
 - `GET http://<ip>:8080/photo`: devuelve un JPEG del cuadro actual de la cámara.
