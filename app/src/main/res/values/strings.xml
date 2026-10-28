@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="es">
+    <string name="app_name">Cámara IP</string>
+    <string name="switch_camera">Cambiar cámara</string>
+    <string name="no_network">Sin red: conectá el teléfono a Wi-Fi</string>
+    <string name="permission_denied">Se necesita permiso de cámara</string>
+    <string name="status_waiting">Esperando pedidos…</string>
+    <string name="status_served">Fotos servidas: %1$d · última: %2$s\n%3$d×%4$d px · %5$d KB · %6$d ms en el teléfono</string>
+    <string name="rtsp_clients">Clientes RTSP: %1$d</string>
+    <string name="status_error">Error: %1$s</string>
+    <string name="server_error">No se pudo iniciar el servidor en el puerto %1$d: %2$s</string>
+
+    <string name="admin_pin_title">PIN de administración</string>
+    <string name="admin_pin_wrong">PIN incorrecto</string>
+    <string name="admin_title_kiosk_on">Administración · modo kiosco activo</string>
+    <string name="admin_title_kiosk_off">Administración · modo kiosco desactivado</string>
+    <string name="admin_title_no_owner">Administración · sin Device Owner (modo kiosco no disponible)</string>
+    <string name="admin_kiosk_off">Salir del modo kiosco</string>
+    <string name="admin_kiosk_on">Activar modo kiosco</string>
+    <string name="admin_remove_owner">Quitar Device Owner (para desinstalar)</string>
+    <string name="admin_remove_owner_confirm">La app deja de ser administradora del dispositivo y se desactiva el modo kiosco. Para volver a activarlo hay que repetir el comando adb. ¿Continuar?</string>
+    <string name="kiosk_disabled">Modo kiosco desactivado</string>
+</resources>
